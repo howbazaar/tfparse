@@ -6,7 +6,6 @@ toolchain go1.21.5
 
 require (
 	github.com/Jeffail/gabs/v2 v2.7.0
-	github.com/aquasecurity/defsec v0.93.1
 	github.com/aquasecurity/trivy v0.50.1
 	github.com/hashicorp/hcl/v2 v2.19.1
 	github.com/zclconf/go-cty v1.14.1
